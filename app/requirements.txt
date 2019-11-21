@@ -6,7 +6,7 @@ requests
 Jinja2==2.7.3
 MarkupSafe==0.23
 WTForms==1.0.5
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 gevent==1.0.1
 gevent-socketio==0.3.6
 gevent-websocket==0.9.3
