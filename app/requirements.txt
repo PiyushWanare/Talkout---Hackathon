@@ -3,7 +3,7 @@ Flask-SocketIO==0.3.8
 Flask-WTF==0.9.5
 pymongo
 requests
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 WTForms==1.0.5
 Werkzeug==0.9.6
